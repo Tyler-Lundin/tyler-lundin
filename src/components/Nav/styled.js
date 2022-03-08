@@ -3,16 +3,16 @@ import styled from 'styled-components'
 export const _Nav = {}
 
 _Nav.Container = styled.div`
-    width: 100vw;
-    height: 12vh;
-    background: rgba(0,0,0,0.7);
-    position: absolute;
-    bottom: 0;
-    display: grid;
-    align-items: center;
-    justify-content: center;
+    
 `
-
+_Nav.OpenButton = styled.h1`
+    font-family: 'le-havre';
+    color: white;
+    position: absolute;
+    top: 0;
+    right: 2%;
+    z-index: 9;
+`
 
 export const _Links = {}
 

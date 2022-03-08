@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import Hero from '../components/Home/Hero'
+import Hero from '../components/Hero/Hero'
 import Nav from '../components/Nav/Nav'
 
 const Home = () => {

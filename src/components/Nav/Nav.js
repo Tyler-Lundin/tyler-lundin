@@ -4,7 +4,7 @@ import { _Nav } from "./styled"
 const Nav = () => {
   return (
     <_Nav.Container>
-      <NavLinks/>
+      <_Nav.OpenButton>menu</_Nav.OpenButton>
     </_Nav.Container>
   )
 }
