@@ -1,13 +1,13 @@
 import React from 'react'
 import styled from 'styled-components'
 import Hero from '../components/Hero/Hero'
-import Nav from '../components/Nav/Nav'
+import Projects from '../components/Projects/Projects'
 
 const Home = () => {
   return (
     <S.Home>
-        <Nav/>
-        <Hero/>
+      <Hero/>
+      <Projects/>
     </S.Home>
   )
 }
@@ -19,7 +19,9 @@ const S = {}
 
 S.Home = styled.div`
     width: 100vw;
-    height: 100vh;
+    min-height: 200vh;
+    display: flex;
+    flex-direction: column;
     iframe {
       position: absolute;
       top: 0;

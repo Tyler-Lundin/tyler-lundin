@@ -1,10 +1,11 @@
 import './App.css';
-import Collection from './components/Collection/Collection';
+import Nav from './components/Nav/Nav';
 import Home from './pages/Home';
 
 function App() {
   return (
     <div id='app'>
+      <Nav/>
       <Home/>
     </div>
   );

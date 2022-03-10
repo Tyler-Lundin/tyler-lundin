@@ -1,9 +1,10 @@
-import BlackWhiteImage from './../../images/751w1080h.png'
+
+import HoldingGlasses from './../../images/holdingGlasses.png'
 import { _Hero } from './styled'
 
 const HeroImage = () => {
     return (
-        <_Hero.HeroImage src={BlackWhiteImage} alt='Image of Tyler Lundin holding glasses in one hand'/>
+        <_Hero.HeroImage src={HoldingGlasses} alt='Image of Tyler Lundin holding glasses in one hand'/>
     )
 }
 
