@@ -15,74 +15,65 @@ const About = () => {
           I wanted to put myself in a better position in life so I started on the path of a Self-Taught Web Developer / Designer.
           I keep my life simple now, I go to the gym, spend time with my family, and work on improving my Development / Design skills
           every day.  Life will never stop moving for anything or anyone, but in the off chance I get to see her again, I want her to 
-          be proud and happy of my life.  
+          be proud and happy of my life. 
+          <br/>
+          <span className='italics'>I won't give up, I will work hard, and I will be happy.</span>
           <br/>   
           <br/>   
-          <S.Header>April 04, 2021 🌻</S.Header>
+          <S.Header>APRIL 04, 2021</S.Header>
           <br/>
-          Amanda took her life, after two years of loving, fighting, laughing,
-          crying, happiness, and all the real stuff of life, she left.  I think about her
-          every single day, and it pushes me in everything.  I am not a religious person,
-          I feel we will never see each other again but I hope we do.  
+          My best friend Amanda left the world after a difficult fight with Anxiety and Depression.  It shattered the hearts of everyone
+          who knew her.  Her smile lit up the world, she will be missed.  
           <br/><br/>
-          <S.Header>"Hey Google, What is Grief?" 😵‍💫</S.Header>
+          <S.Header>THANKS JAKE</S.Header>
           <br/>
-          Months after she left, I drove out to Washington DC with my awesome brother Jacob.
-          I was open with him about how the grieving process made me feel.  I told him I had
-          cosidered leaving the world myself in search of her.  He made up a scenario in my head
-          with some 'younger brother wise words'.  "What if when you die, you repeat this life over and over. . .
-          You live through all that you just went through over and over forever." Hilarious but it worked.
+          I drove out to Washington DC with my younger brother Jacob.
+          On this drive I opened up with him.  We became closer than I felt we ever were before.  I told him I was struggling
+          and had considered leaving the world to find Amanda.  It was a stray thought one night but I needed to be open.
+          He gave me an interesting conversation on it.  His theoretical went something like "What if you left, and you had to repeat
+          all those bad times over and over again.  No one knows what's next, so it very well could be something awful like that."
+          It was funny to me, it put a smile on my face even though I thought it was all silly nonsense.  
+          The time spent with him was a big help with my mental health.
           <br/><br/>
-          <S.Header>Grief sucks 😥</S.Header>
+          <S.Header>"Hey Google, What is Grief?"</S.Header>
           <br/>
           Going to the gym is what I did. I went a lot, not a lot, but A LOT.  I isolated myself from
-          the world outside AND inside of work.  I had music drowning out the world for me almost constantly.
-          I went back to playing video games too much like I did when I was a little kid but I needed to.
+          the world outside AND inside of work.  Music drowned out the world for me on a regular basis.
+          My emotions were extremely high and I was very sensitive, but I kept it all in around everyone.  
+          I was learning about a full range of new emotions, it was DIFFICULT.  I focused on myself and my happiness
+          more then I have ever done before.  It was a weird first 6 months.
           <br/><br/>
-          <S.Header>Keep moving 🧘🏽</S.Header>
+          <S.Header>I'VE GOT THIS </S.Header>
           <br/>
-          During all this I had picked up an old passion of mine from when I was in highschool, programming.
-          I started studying at work on all my breaks, trying to teach myself how to become a software engineer.
-          I realized that is a big step from working a nightshift factory job after a few months.
-          I switched my focus over to an even OLDER passion of mine coming from when I was just 15 years old.
-          I picked up Web Development in my brain and started watching tutorial after tutorial.
+          I needed to move up and move on.  I was suffering with immense sadness, but I hadn't given up.
+          I decided I was going to become a Web Developer.  I started studying whether it was at work or at home,
+          I couldn't get enough of this new pathway I was opening up in my life.
+          Studying and working on what I wanted to breathed passion and life into me.  All I did was work, study, and go to the gym.
           <br/><br/>
-          I started soley with the basics, HTML and CSS.  I felt so rusty but picked up the basics within a week or two.
-          I started on Javascript for a month before I found out about something called a framework. REACT JS!
-          It is an amazing tool, it is what I use to develop all my projects.  Since September of 2021 I have committed 
-          1 - 10 hours nearly every day to keep learning. 
-          <br/><br/>
-          <S.Header>December 04, 1998 ☀️</S.Header>
+          <S.Header>DECEMBER 2021 </S.Header>
           <br/>
-          December is hard while being alone.  She left 4 days after my birthday, 8 months prior to December.  December 04, 1998 is the month she was born,
-          aka her Birthday.  December 25th as most know, is Christmas, and one I would be spending alone with my cats.  Just days after that is New Years Eve,
-          whom I had no one to spend time with.  Just me, myself, and I for all these days so I did something crazy.
-          I quit my job without a notice.  Amanda always wanted me to quit, and I really wish I would have to be able to spend time with her.
-          I was being mistreated in my mind, and I needed to focus on my health and my life.  I stopped showing up one day without saying goodbye
-          to anyone.  It shocked everyone as I was friends (or friendly) with everyone.  I felt bad for leaving them like that
-          but it was to make a point to myself.  I can't live an unhealthy like like that ever again.  No more wasting time for 'good money'.
-          Time with family, myself, and my passions is what will give me what I am looking for.  I hold it as a promise to Amanda in hopes
-          I do see her again, I want to be able to share a GOOD story instead of a sad, valueless story of my life.
-          I will keep getting up, and I will do better for that promise to the both of us. 
+          Late November - I quit my job in preparation for a difficult month. <br/>
+          December 04, 2021 - Happy birthday Amanda.  I spent the day alone.  <br/>
+          December 25th, 2021 - Merry Christmas Amanda. I spent the day alone. <br/>
+          December 31st, 2021 - Happy New Years Amanda. As you guessed, I spent the day alone. <br/>
+          It was a tough month, but I remained persistant on maintaining my health and happiness.
+          I stumbled many days, I missed the gym often, and I laid in bed too long, but I kept getting up.
           <br/><br/>
-          <S.Header>February 14, 2022 ✈️</S.Header>
+          <S.Header>FEBRUARY 14th, 2022</S.Header>
           <br/>
-          I left Utah after living there for 15+ years for Spokane, WA.  I decided to move in with my family
-          as I have been focusing extremely hard on keeping my mental and physical health in great condition.
-          I have been out in Washington.  Every day I have been here I have been feeling better and better.
-          I have been working on my Web Development skills constantly, day in and day out.  I go to the gym every
-          (non-rest) day.  I am eating extremely well, being apart of my siblings and parents lifes.
-          Turns out my younger brother (5yo) Easton had no idea I was his brother.  He thought I was a friend 😆
-          I am doing really well and I want to keep this going.  My goal is to have a job or be freelancing before
-          my birthday.  4 Days after is Amanda 1 year, and when I 'talk' to her, I want to give good news.  She may not be listening
-          but it feels nice to speak to her on occasion.
+          After being in Logan, Utah for nearly 16 years of my life, I left.
+          I only told a couple people I was leaving, it was exciting.  I rented a U-Haul with a trailer,
+          and took my cats with all my belongings to Washington.  It was a fun drive, and I felt hopeful.  
+          It felt like a very apparent 'new-chapter' in my life, which is where I am now.  I look forward
+          to this year (2022), I am extremely hopeful.
+
           <br/><br/>
           Rest in peace Amanda
           <br/>
           <br/>
           Love and Happiness to all,
           <br/>
-          Tyler James Lundin
+          Tyler James Lundin 👍🏼
         </S.AboutMe>
       </S.AboutSection>
     </S.Container>
@@ -103,7 +94,7 @@ S.AboutSection = styled.div`
   padding-top: 50px;
   display: grid;
   opacity: 1;
-  background: rgba(30,30,30,1);
+  background: rgb(0, 190, 255);
   @media (max-width: 650px) {
     grid-template-rows:1fr 1fr;
   }
@@ -127,12 +118,17 @@ S.ImageContainer = styled.div`
 `
 S.AboutMe = styled.div`
   font-family: 'arial';
-  color: white;
+  color: black;
   overflow-y: auto;
   padding: 20px;
-  text-align: center;
+  text-align: left  ;
   margin-bottom: 50px;
+  .italics {
+    font-style: italic;
+  }
 `
 S.Header = styled.h2`
-  font-family: 'roboto-slab';
+  font-family: 'le-havre';
+  font-weight: 700;
+  background: rgba(0,0,0,0.2);
 `
