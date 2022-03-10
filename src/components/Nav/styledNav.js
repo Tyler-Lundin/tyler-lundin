@@ -86,7 +86,7 @@ _Links.ul = styled.ul`
     list-style: none;
     display: grid;
     height: 90vh;
-    width: 50vw;
+    width: 100%;
     align-items: center;
     justify-items:center ;
 `

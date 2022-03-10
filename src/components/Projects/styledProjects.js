@@ -35,6 +35,9 @@ S.ProjectInformation = styled.div`
     grid-auto-flow: row;
     justify-content: space-around;
     align-items: center;
+    @media (max-width: 600px) {
+        width: 90vw;
+    }
 `
 
 S.ProjectImage = styled.div`
@@ -43,6 +46,10 @@ S.ProjectImage = styled.div`
     overflow-y: auto;
     img {
         width: 100%;
+    }
+    @media (max-width: 600px) {
+        width: 90vw;
+        height: 51vw;
     }
 `
 
