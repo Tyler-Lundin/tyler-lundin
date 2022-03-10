@@ -62,6 +62,9 @@ _Hero.IntroTitle = styled.h1`
 
 _Hero.IntroContent = styled.p`
     font-family: 'arial';
+    @media (max-width: 768px) {
+        text-align: center;
+    }
 `
 _Hero.IntroCTA = styled.button`
     all: unset;

@@ -19,11 +19,7 @@ const S = {}
 
 S.Home = styled.div`
     width: 100vw;
-    min-height: 200vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
-    iframe {
-      position: absolute;
-      top: 0;
-    }
 `

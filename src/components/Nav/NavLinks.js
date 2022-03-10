@@ -1,19 +1,21 @@
-import { _Links } from "./styled"
+import { Link, useLocation, useNavigate, useHref } from "react-router-dom"
+import { _Links } from "./styledNav"
+import { HashLink } from "react-router-hash-link"
 
 
 const NavLinks = (props) => {
   const {
     setIsNavOpen,
+    handleClick,
     isNavOpen
   } = props
-  const handleClick = () => {
-    setIsNavOpen(!isNavOpen)
-  }
+
   return (
     <_Links.ul>
-      <_Links.li onClick={handleClick}><a href='#Projects'>PROJECTS</a></_Links.li>
-      <_Links.li onClick={handleClick}>ABOUT</_Links.li>
-      <_Links.li onClick={handleClick}>CONTACT</_Links.li>
+      <_Links.li onClick={handleClick}><Link to='/'>HOME</Link></_Links.li>
+      <_Links.li onClick={handleClick}><HashLink to='/#Projects'>PROJECTS</HashLink></_Links.li>
+      <_Links.li onClick={handleClick}><Link to='/aboutme'>ABOUT</Link></_Links.li>
+      <_Links.li onClick={handleClick}><a href="mailto:tyler@tylerlundin.me">CONTACT</a></_Links.li>
     </_Links.ul>
   )
 }

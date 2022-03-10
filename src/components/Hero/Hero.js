@@ -1,9 +1,11 @@
 import React from 'react'
 import HeroImage from './HeroImage'
-import { _Hero } from './styled'
+import { _Hero } from './styledHero'
 import { AiOutlineArrowDown } from 'react-icons/ai'
+
 const Hero = () => {
   window.addEventListener('scroll', hideArrow)
+
   function hideArrow () {
     var currentScrollPos = window.pageYOffset;
     if (350 < currentScrollPos) {
@@ -16,7 +18,10 @@ const Hero = () => {
       document.getElementById("scrollDownIndicator").style.opacity = "1";
     }
   }
-
+  const handleScroll = () => {
+    var scrollto = document.getElementById("Projects");
+    scrollto.scrollIntoView({behavior: "smooth" , block: 'start', inline: 'nearest'})
+  }
   return (
     <_Hero.Hero>
 
@@ -29,7 +34,7 @@ const Hero = () => {
           <_Hero.IntroContent>Reach out and we can discuss our future project</_Hero.IntroContent>
           <_Hero.IntroCTA>EMAIL ME</_Hero.IntroCTA>
         </_Hero.IntroContainer>
-        <_Hero.ScrollDown id='scrollDownIndicator'>
+        <_Hero.ScrollDown onClick={handleScroll} id='scrollDownIndicator'>
           <AiOutlineArrowDown size='100%'/>
         </_Hero.ScrollDown>
     </_Hero.Hero>

@@ -26,7 +26,7 @@ S.ProjectContainer = styled.div`
 `
 
 S.ProjectInformation = styled.div`
-    width: 80vw;
+    width: 60vw;
     height: fit-content;
     padding: 2px;
     background: rgba(0,0,0,1);
@@ -38,8 +38,8 @@ S.ProjectInformation = styled.div`
 `
 
 S.ProjectImage = styled.div`
-    width: 80vw;
-    height: 40vw;
+    width: 60vw;
+    height: 30vw;
     overflow-y: auto;
     img {
         width: 100%;
@@ -50,5 +50,11 @@ S.ProjectLinks = styled.div`
     display: grid;
     grid-auto-flow: column;
     grid-gap: 1rem;
+    p {
+        :hover {
+        cursor: pointer;
+        color: lightcoral;
+        }
+    }
 `
 

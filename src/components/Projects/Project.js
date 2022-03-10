@@ -11,7 +11,7 @@ const Project = (props) => {
             </S.ProjectLinks>
         </S.ProjectInformation>
         <S.ProjectImage>
-            <img src={props.projectImage}/>
+            <img src={props.projectImage} loading='lazy' alt={props.projectTitle}/>
         </S.ProjectImage>
     </S.ProjectContainer>
   )

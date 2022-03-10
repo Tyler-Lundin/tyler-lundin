@@ -48,6 +48,13 @@ _Nav.Heading = styled.h1`
     font-family: 'le-havre';
     white-space: nowrap;
     font-size: 2rem;
+    a {
+        all: unset;
+        :hover {
+            color: lightcoral;
+            cursor: pointer;
+        }
+    }
 `
 _Nav.OpenButton = styled.h1`
     font-family: 'le-havre';
@@ -93,11 +100,18 @@ _Links.li = styled.li`
     height: fit-content;
     text-align: center;
     transition: 250ms;
-    text-decoration: underline;
-    text-decoration-color: rgba(255,255,255,0);
-    text-decoration-thickness: 1px;
+    border: 1px solid rgba(0,0,0,0);
     :hover {
-        text-decoration-color: rgba(255,255,255,1);
-        
+        cursor: pointer;
+        border: 1px solid white;
     }
+    a{
+        all: unset;
+        text-decoration: none !important;
+    }
+`
+
+_Links.a = styled.a`
+    all: unset;
+    text-decoration: none !important;
 `

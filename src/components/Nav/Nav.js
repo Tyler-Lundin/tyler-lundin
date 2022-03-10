@@ -1,8 +1,10 @@
 import NavLinks from "./NavLinks"
-import { _Nav } from "./styled"
+import { _Nav } from "./styledNav"
 import {useState} from 'react'
 import {AiFillGithub, AiFillLinkedin } from 'react-icons/ai'
 import useIsMounted from './../../util/useIsMounted'
+import { Link, useLocation } from "react-router-dom"
+
 const Nav = () => {
   const [isNavOpen, setIsNavOpen] = useState(true)
   const isMounted = useIsMounted()
@@ -27,8 +29,6 @@ const Nav = () => {
     }
     prevScrollpos = currentScrollPos;
   }
-  //   return (<div className={`navigation ${isMounted ? 'mounted' : ''}`}></div>)
-  // }
 
   return (
     <>
@@ -39,14 +39,14 @@ const Nav = () => {
             <AiFillGithub onClick={()=>window.open('https://github.com/Tyler-Lundin')} size='35px'/>
             <AiFillLinkedin onClick={()=>window.open('https://www.linkedin.com/in/tyler-lundin')} size='35px'/>
           </_Nav.IconLinks>
-          <_Nav.Heading>tylerlundin.me</_Nav.Heading>
+          <_Nav.Heading><Link to={'/'}>tylerlundin.me</Link></_Nav.Heading>
 
         </_Nav.TopContainer>
       </_Nav.Container>
       <_Nav.MenuContainer>
         <_Nav.Menu isNavOpen={isNavOpen} isMounted={isMounted}>
           <_Nav.OpenButton id="nav_open_button" onClick={handleClick}>menu</_Nav.OpenButton>
-          <NavLinks setIsNavOpen={setIsNavOpen} isNavOpen={isNavOpen}/>
+          <NavLinks setIsNavOpen={setIsNavOpen} handleClick={handleClick} isNavOpen={isNavOpen}/>
         </_Nav.Menu>
       </_Nav.MenuContainer>
     </>

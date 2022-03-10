@@ -1,10 +1,9 @@
-
-import HoldingGlasses from './../../images/holdingGlasses.png'
-import { _Hero } from './styled'
+import HoldingGlassesLarge from './../../images/home/Tyler500x735.webp'
+import { _Hero } from './styledHero'
 
 const HeroImage = () => {
     return (
-        <_Hero.HeroImage src={HoldingGlasses} alt='Image of Tyler Lundin holding glasses in one hand'/>
+        <_Hero.HeroImage src={HoldingGlassesLarge} alt='Image of Tyler Lundin holding glasses in one hand'/>
     )
 }
 
