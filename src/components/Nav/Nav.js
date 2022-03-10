@@ -3,7 +3,7 @@ import { _Nav } from "./styledNav"
 import {useState} from 'react'
 import {AiFillGithub, AiFillLinkedin } from 'react-icons/ai'
 import useIsMounted from './../../util/useIsMounted'
-import { Link, useLocation } from "react-router-dom"
+import { Link } from "react-router-dom"
 
 const Nav = () => {
   const [isNavOpen, setIsNavOpen] = useState(true)

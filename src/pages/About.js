@@ -1,23 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import momtyleramanda from './../images/about/momtyleramanda.jpeg'
-import bg14 from './../images/about/bg14.webp'
-import bg15 from './../images/about/bg15.webp'
-import bg16 from './../images/about/bg16.webp'
-import bg0 from './../images/about/bg0.webp'
-import bg1 from './../images/about/bg1.webp'
-import bg2 from './../images/about/bg2.webp'
-import bg3 from './../images/about/bg3.webp'
-import bg4 from './../images/about/bg4.webp'
-import bg5 from './../images/about/bg5.webp'
-import bg6 from './../images/about/bg6.webp'
-import bg7 from './../images/about/bg7.webp'
-import bg8 from './../images/about/bg8.webp'
-import bg9 from './../images/about/bg9.webp'
-import bg10 from './../images/about/bg10.webp'
-import bg11 from './../images/about/bg11.webp'
-import bg12 from './../images/about/bg12.webp'
-import bg13 from './../images/about/bg13.webp'
+
 const About = () => {
   return (
     <S.Container>

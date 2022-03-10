@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import Color from '../../util/Colors'
 import { slideIn, slideOut, hideFirstAnimation } from '../../util/animations'
 
 export const _Nav = {}

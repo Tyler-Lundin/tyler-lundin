@@ -1,5 +1,4 @@
 import React, {lazy, Suspense} from 'react'
-// import Project from './Project'
 import { S } from './styledProjects'
 import lundinOptometry from './../../images/home/LundinOptometryDisplay.webp'
 import JournalDisplay from './../../images/home/JournalDisplay.webp'
