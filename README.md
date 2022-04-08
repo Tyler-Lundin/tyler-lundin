@@ -1,6 +1,6 @@
 # Tyler Lundin | Portfolio Website | tylerlundin.me
 
-### OBJECTIVES
+### random ideas that I won't do
 - Home Page that 'pops'
 - Full Screen clean menu with mini animations
 - Design a 'Projects' Page after homescreen and nav are complete
