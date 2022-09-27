@@ -24,7 +24,8 @@
  - SQL
 
 ### LINKS
- - [CODEWARS](https://www.codewars.com/users/ImprovingTyler)
+ - [CODEWARS](https://www.codewars.com/users/ImprovingTyler) ![codewars badge](https://www.codewars.com/users/ImprovingTyler/badges/small)
  - [INSTAGRAM](https://www.instagram.com/tylerlundin_/)
  - [WEBSITE](https://www.tylerlundin.me)
  - [JRNL](https://myjournal.app)
+
