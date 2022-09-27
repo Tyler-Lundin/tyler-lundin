@@ -10,8 +10,9 @@
  - HTML / CSS / SCSS
  - Mongodb / Firebase
  - Express 
- - React
+ - React 
  - Node / Bun
+ - Redux (state) / React Router Dom (routing) / Styled Components (styling) 
  - Github 
  - Adobe XD / Photoshop / Illustrator
  - Postman
@@ -29,3 +30,5 @@
  - [WEBSITE](https://www.tylerlundin.me)
  - [JRNL](https://myjournal.app)
 
+### Folder Structure
+ - Whatever works
