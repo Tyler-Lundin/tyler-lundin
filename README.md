@@ -21,7 +21,9 @@
  - Coffee Protein Shakes
  
 ### TOOL WISHLIST
- - Rust Lang
+ - Rust Lang 
+ - TensorFlow
+ - Python
  - SQL
 
 ### LINKS
@@ -31,4 +33,4 @@
  - [JRNL](https://myjournal.app)
 
 ### Folder Structure
- - Whatever works
+ - Whatever works best 🤷‍♂️
