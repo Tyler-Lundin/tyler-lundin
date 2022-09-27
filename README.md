@@ -23,7 +23,7 @@
  - SQL
 
 ### LINKS
- [CODEWARS](https://www.codewars.com/users/ImprovingTyler)
- [INSTAGRAM](https://www.instagram.com/tylerlundin_/)
- [WEBSITE](https://www.tylerlundin.me)
- [JRNL](https://myjournal.app)
+ - [CODEWARS](https://www.codewars.com/users/ImprovingTyler)
+ - [INSTAGRAM](https://www.instagram.com/tylerlundin_/)
+ - [WEBSITE](https://www.tylerlundin.me)
+ - [JRNL](https://myjournal.app)
