@@ -13,8 +13,9 @@
  - React
  - Node / Bun
  - Github 
- - NPM 
  - Adobe XD / Photoshop / Illustrator
+ - Postman
+ - VSCode
  - 16" M1 Pro Macbook
  - Coffee Protein Shakes
  
