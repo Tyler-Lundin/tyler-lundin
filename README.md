@@ -1,4 +1,4 @@
-# Full Stack Web Dev
+# FULLSTACK DEVELOPER 
 
 ### COMPLETED COURSES
  - [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce/)
