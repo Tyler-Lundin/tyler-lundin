@@ -7,24 +7,18 @@
  
 ### TOOLBOX
  - Typescript / Javascript
- - HTML / CSS / SCSS
+ - HTML / CSS / SCSS 
  - Mongodb / Firebase
  - Express 
- - React 
+ - React / NextJs / Vite
  - Node / Bun
  - Redux (state) / React Router Dom (routing) / Styled Components (styling) 
  - Github 
  - Adobe XD / Photoshop / Illustrator
  - Postman
- - VSCode
+ - Nvim / VSCode
  - 16" M1 Pro Macbook
  - Coffee Protein Shakes
- 
-### TOOL WISHLIST
- - Rust Lang 
- - TensorFlow
- - Python
- - SQL
 
 ### LINKS
  - [CODEWARS](https://www.codewars.com/users/ImprovingTyler) ![codewars badge](https://www.codewars.com/users/ImprovingTyler/badges/small)
