@@ -4,6 +4,8 @@
  - Nvim
  - M1 pro 16"
  - iTerm
+ - MERN stack
+ - Typescript
 
  ### TODO 2023
   - continue learning Rust
