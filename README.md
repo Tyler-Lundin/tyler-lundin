@@ -22,7 +22,7 @@
  - pull
  - legs
  - rest
- (repeat)
+ - repeat 
 
 ### links
  - [CODEWARS](https://www.codewars.com/users/ImprovingTyler) ![codewars badge](https://www.codewars.com/users/ImprovingTyler/badges/small)
