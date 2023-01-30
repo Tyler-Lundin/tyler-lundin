@@ -14,7 +14,7 @@
   - improve social 'soft' skills
   - sacrifice time for the good of others
   - keep making my life uncomfortable and challenging
-  - contribute to suicidal awareness
+  - improve mental health awareness
   - create more external laughter
 
 ### gym
