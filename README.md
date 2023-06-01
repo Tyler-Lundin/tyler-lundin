@@ -5,7 +5,7 @@ Hello there! 👋 I'm Tyler, a self-taught Fullstack Developer specializing in M
 ## 🔧 Tools
 - Nvim
 - M1 pro 16"
-- -[iTerm]
+- ~~iTerm~~
 - Alacritty
 
 ## 💻 Tech Stack
