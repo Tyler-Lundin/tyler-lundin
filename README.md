@@ -9,10 +9,15 @@ Hello there! 👋 I'm Tyler, a self-taught Fullstack Developer specializing in M
 - Alacritty
 
 ## 💻 Tech Stack
-- MERN (MongoDB, Express, React, NextJS)
-- TypeScript
-- Firebase
+- Next.JS / React
+- MongoDB / Supabase / Firebase
+- TypeScript / Javascript
 - Prisma
+
+## 🤓 Learning
+- C
+- Rust
+- SQL
 
 ## 🎯 2023 Goals
 - Continue my journey learning Rust.
