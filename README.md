@@ -16,8 +16,6 @@ Hello there! 👋 I'm Tyler, a self-taught Fullstack Developer specializing in M
 
 ## 🤓 Learning
 - C
-- Rust
-- SQL
 
 ## 🎯 2023 Goals
 - Continue my journey learning Rust.
