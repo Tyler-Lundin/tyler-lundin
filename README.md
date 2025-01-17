@@ -1,21 +1,19 @@
 # Tyler Lundin – Fullstack Developer
 
-Hello there! 👋 I'm Tyler, a self-taught Fullstack Developer specializing in MERN stack and TypeScript. I strive to combine my love for problem-solving with my passion for web development to create seamless and innovative digital solutions. 
+Hello there! 👋 I'm Tyler, a self-taught Developer.
 
-## 🔧 Tools
-- Nvim
+## 🔧 Hardware
 - M1 pro 16"
-- Alacritty
+- Snapdragon X Pro Surface 7
+- Velka 3 w/ 4060
+- Fingerless typing gloves
 
-## 💻 Tech Stack
-- Next.JS / React
-- MongoDB / Supabase / Firebase
-- TypeScript / Javascript
-- Prisma
-
-## 🌐 Links
-- [Codewars Profile](https://www.codewars.com/users/ImprovingTyler)
-- [Personal Website](https://www.tylerlundin.me)
+## Software I've tinkered with
+- Neovim (Astro)
+- React / NextJS 13, 14, and 15
+- Prisma / MongoDB / Postresgql / Firebase / Supabase
+- Nx
+- Express / Learning NestJS
 
 I'm always open to collaborating on interesting projects, and I love making new friends in the tech community. Feel free to reach out! 😄
 
